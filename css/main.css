@@ -520,17 +520,29 @@ img.pull-left {
     .bgrid {
         padding: 0 15px;
     }
+    .viodeos {
+        height: 250px;
+        width: 350px;
+    }
 }
 
 @media only screen and (max-width:600px) {
     .bgrid {
         padding: 0 10px;
     }
+    .viodeos {
+        height: 250px;
+        width: 350px;
+    }
 }
 
 @media only screen and (max-width:400px) {
     .bgrid {
         padding: 0;
+    }
+    .viodeos {
+        height: 250px;
+        width: 350px;
     }
 }
 
