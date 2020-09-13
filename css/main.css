@@ -520,30 +520,21 @@ img.pull-left {
     .bgrid {
         padding: 0 15px;
     }
-    .viodeos {
-        height: 250px;
-        width: 350px;
-    }
+   
 }
 
 @media only screen and (max-width:600px) {
     .bgrid {
         padding: 0 10px;
     }
-    .viodeos {
-        height: 250px;
-        width: 350px;
-    }
+   
 }
 
 @media only screen and (max-width:400px) {
     .bgrid {
         padding: 0;
     }
-    .viodeos {
-        height: 250px;
-        width: 350px;
-    }
+  
 }
 
 
@@ -1613,11 +1604,19 @@ header .logo a {
     header .top-bar {
         left: 35px;
     }
+    .viodeos {
+        height: 250px;
+        width: 350px;
+    }
 }
 
 @media only screen and (max-width:400px) {
     header .top-bar {
         left: 25px;
+    }
+    .viodeos {
+        height: 250px;
+        width: 350px;
     }
 }
 
